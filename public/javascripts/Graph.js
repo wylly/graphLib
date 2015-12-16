@@ -8,9 +8,10 @@ var Graph = new function(){
 
     this.init = function(){
         //INITIALIZE
-    }
+    };
 
-    this.saveGraph = function(){
+    this.saveGraph = function() {
+    };
 
-    }
-}
+
+};
